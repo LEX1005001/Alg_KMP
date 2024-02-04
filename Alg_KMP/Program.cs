@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-
+//https://www.youtube.com/watch?v=S2I0covkyMc
 namespace Alg_KMP
 {
     internal class Program
